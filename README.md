@@ -9,7 +9,7 @@
 git clone <ссылка на репозиторй>
 
 - Ссылка на макет: https://www.figma.com/design/jF5fFFzgGOxQeB4CmKWTiE/Chat_external_link?node-id=0-1&t=SEsupOfSYoZTff9F-0
-- Ссылка на Netlify: https://jocular-yeot-005aff.netlify.app
+- Ссылка на Netlify: https://wondrous-kitten-3e7a26.netlify.app
 
 ### Страницы
 - Авторизация - http://localhost:3000,

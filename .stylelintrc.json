@@ -1,0 +1,24 @@
+{
+    "ignoreFiles": [
+        "**/*.ts",
+        "**/*.svg",
+        "**/*.html",
+        "**/*.toml",
+        "**/*.js",
+        "**/*.json",
+        "**/*.md",
+        "**/*.png"
+    ],
+    "rules": {
+        "declaration-no-important": true,
+        "block-no-empty": [
+            true,
+            {
+                "ignore": [
+                    "comments"
+                ]
+            }
+        ],
+        "rule-empty-line-before": "always-multi-line"
+    }
+}

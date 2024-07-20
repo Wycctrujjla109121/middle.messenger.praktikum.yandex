@@ -47,9 +47,11 @@
         }
 
         &:focus {
+
             &::placeholder {
                 color: transparent;
             }
+
         }
 
         &:not(:placeholder-shown)+.label__icon {
